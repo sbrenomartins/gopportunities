@@ -1,2 +1,2 @@
 ### GET /opening
-GET http://localhost:8080/api/v1/opening
+GET http://localhost:3333/api/v1/opening
